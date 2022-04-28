@@ -1,4 +1,4 @@
-Implementing GCBD and other optimization method
+Implementing BCGD and other optimization method
 Version 1.0
 ==================================================================
 #### Author: Mojtaba Amini ####
