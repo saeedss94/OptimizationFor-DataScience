@@ -1,7 +1,7 @@
 Implementing BCGD and other optimization method
 Version 1.0
 ==================================================================
-#### Author: Mojtaba Amini ####
+#### Authors: Mojtaba Amini, Kamile Dementaviciute, Saeed Soufeh ####
 #### Email: Mojtaba.amini.1995@gmail.com ####
 #### Supervisor: Francesco Rinaldi 
 ##### Universita di Padova
